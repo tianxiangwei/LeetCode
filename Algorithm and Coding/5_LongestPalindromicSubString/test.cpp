@@ -105,7 +105,7 @@ string longest_palindrome1(string s)
 
 int main()
 {
-	string s="1221324";
+	string s="characher";
 	cout<<"the origin string:"<<s<<endl;
 	string substr;
 	//substr=longest_palindrome(s);
